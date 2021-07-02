@@ -1,1 +1,1 @@
-"CDN-1" 
+Cdn, mirror and more

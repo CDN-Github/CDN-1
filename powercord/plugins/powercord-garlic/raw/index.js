@@ -86,6 +86,6 @@ async function injectGuilds () {
   });
 }
 
-module.exports = startPlugin;
-module.exports = injectUsers;
-module.exports = injectGuilds;
+module.exports.startPlugin = startPlugin;
+module.exports.injectUsers = injectUsers;
+module.exports.injectGuilds = injectGuilds;
